@@ -51,7 +51,7 @@ int main()
 		}
 		else
 		{
-			cout << "Invalid key, press w, a, s, d or z for close from looping!" << endl;
+			cout << "Invalid key, press w, a, s, d or z to close from looping!" << endl;
 			continue;
 		}
 		
