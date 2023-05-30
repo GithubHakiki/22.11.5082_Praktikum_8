@@ -25,7 +25,7 @@ int main()
 	hero.draw();
 	
 	char key;
-	for(int i = 1; i < SIZE; i++)
+	for(int i = 0; i < SIZE; i++)
 	{
 		key = _getch();
 		
